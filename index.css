@@ -1,0 +1,43 @@
+.azul {
+width: 80rem;
+height: 8rem;
+
+background-color: blue;
+border: 1rem soild rgb(0, 0, 160);
+}
+.contenedor {
+width: 70;
+height: 50.3rem;
+padding: 0;
+display: flex;
+justify-content: space-between;
+}
+.rojo {
+width: 15rem;
+height: 48rem;
+background-color: red;
+border: 1rem solid rgb(175, 2, 2);
+}
+.verde {
+width: 62.6rem;
+height: 48rem;
+background-color: rgb(39, 161, 39);
+border: 1rem solid rgb(0, 99, 0);
+display: flex;
+justify-content: space-between;
+}
+.morado {
+width: 98%;
+height: 16rem;
+background-color: rgb(107, 37, 107);
+border: 1rem solid rgb(70, 1, 70);
+}
+.item {
+width: 18.7rem;
+height: 28rem;
+background-color: orange;
+border: 1rem solid rgb(177, 115,0);
+}
+
+
+

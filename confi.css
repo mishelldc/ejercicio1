@@ -1,0 +1,13 @@
+*{
+margin: 0;
+padding: 1rem;
+box-sizing: border-box;
+}
+html {
+font-size: 10px;
+font-family: 'Comfortaa', sans-serif;
+}
+body {
+flex-direction: row;
+justify-content: right;
+}
